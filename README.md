@@ -16,5 +16,5 @@ Aop kullanmanın temel niyeti logging, caching ve transaction gibi kesişen kayg
 </p>
 
 <p>
-Aop gerçekleştirmek üzere; PostSharp ya da Castle DynamicProxy gibi araçlar kullanılabilir. Bu kapsamda bizim 
+Aop gerçekleştirmek üzere; PostSharp ya da Castle DynamicProxy gibi araçlar kullanılabilir.
 </p>
