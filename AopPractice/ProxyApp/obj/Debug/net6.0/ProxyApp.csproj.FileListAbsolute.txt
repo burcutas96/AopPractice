@@ -1,0 +1,14 @@
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\bin\Debug\net6.0\ProxyApp.exe
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\bin\Debug\net6.0\ProxyApp.deps.json
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\bin\Debug\net6.0\ProxyApp.runtimeconfig.json
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\bin\Debug\net6.0\ProxyApp.dll
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\bin\Debug\net6.0\ProxyApp.pdb
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\ProxyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\ProxyApp.AssemblyInfoInputs.cache
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\ProxyApp.AssemblyInfo.cs
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\ProxyApp.csproj.CoreCompileInputs.cache
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\ProxyApp.dll
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\refint\ProxyApp.dll
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\ProxyApp.pdb
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\ProxyApp.genruntimeconfig.cache
+C:\Users\Ayzasoft\source\repos\AopPractice\ProxyApp\obj\Debug\net6.0\ref\ProxyApp.dll
